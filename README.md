@@ -1,2 +1,2 @@
 # Excel_Dashboard_Projects
-Excel Project with Interactive Dashboard.
+I have explained how vrinda store can improve their sales for more profits through excel by creating interactive dashboards.
